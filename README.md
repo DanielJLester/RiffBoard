@@ -17,6 +17,6 @@ Once I was in a position to understand my product's core value, proposition and 
 
 ## Development ##
 The first real version had to be highly stripped, but functional for the large chunk of the user journey.
-The development used Claude Code only. Using claude skills to hone and refine prompts to develop in 2 phases, infrastructure, then frontend. The app is PWA with a Supabase backend (auth, storage, and database). I wanted analytics from the start (using Posthog), to ensure I can understand users from the beginning and support bugs fixes with usage and recordings. It's now a freemium product with Stripe monetization to short be rolled out, and remains very much a living, evolving project.
+The development used Claude Code only. Using claude skills to hone and refine prompts to develop in 2 phases, infrastructure, then frontend. The app is React.js based PWA with a Supabase backend (auth, storage, and database). I wanted analytics from the start, and integrated Posthog as part of the infrastructure phase. This was to ensure I can understand users from the very beginning, and support bugs fixes with usage and recordings. It's now a freemium product with Stripe monetization shortly being rolled out, and remains very much a living, evolving project.
 
 The v1 is live with an ever growing user base [StickyNotes](audiostickynotes.netlify.app) 
