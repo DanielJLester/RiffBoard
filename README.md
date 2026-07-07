@@ -1,5 +1,5 @@
 # RiffBoard
-Overview of my journey with claude code developed app for musicians
+Overview of my journey with claude code developed app for musicians. Note: This repo does not contain the app code, and is only for sharing my experience, product thoughts and journey.
 
 ## Overview ##
 StickyNotes started as a personal frustration: as a hobbyist musician and songwriter, I kept losing track of ideas buried in an ever-growing, disorganized Voice Memos library, so I set out to build the tool I actually wanted — one built specifically for songwriters, not musicians broadly, with organization and retrieval as the core differentiator rather than just recording. 
