@@ -21,22 +21,22 @@ The development used Claude Code only. Using claude skills to hone and refine pr
 
 The v1 is live with an ever growing user base [StickyNotes](https://audiostickynotes.netlify.app/dashboard) 
 
-## Features ##
+## Problems ##
 
-**Feature 01 - Sharing**
+### Problem 01 - Sharing
 
-- Problem Statement: Problem: Songwriters and band members record an idea as an audio note and send it over WhatsApp to a bandmate or co-writer, to get feedback or a counterpart part. Sending works fine. The trouble is afterward: the clips end up scattered across WhatsApp threads and phone storage, and nobody can find them again.
-- Assumptions
+- **Problem Statement:** Songwriters and band members record an idea as an audio note and send it over WhatsApp to a bandmate or co-writer, to get feedback or a counterpart part. Sending works fine. The trouble is afterward: the clips end up scattered across WhatsApp threads and phone storage, and nobody can find them again.
+- **Assumptions:** 
 - Objective: Existing users share song-idea notes in-app instead of WhatsApp, so ideas stay in one findable place.
 - Metrics: 
 
-**Feature 02 - Upload**
-- Problem Statement:
+### Problem 02 - Upload
+- **Problem Statement**
 
 
-**Feature 03 - Overdub**
+### Problem 03 - Single record
 
-- Problem Statement: Songwriters capturing ideas on their phone, away from their DAW, can only record one part at a time. A multi-part idea (guitar and vocals, say) means recording everything in one take with careful mic placement, or leaving the app to build it up elsewhere, where it loses its home. Overdub lets them build the idea one part at a time inside StickyNotes, then take it to a DAW or studio later.
-- Assumptions
+- **Problem Statement:** Songwriters capturing ideas on their phone, away from their DAW, can only record one part at a time. A multi-part idea (guitar and vocals, say) means recording everything in one take with careful mic placement, or leaving the app to build it up elsewhere, where it loses its home. Overdub lets them build the idea one part at a time inside StickyNotes, then take it to a DAW or studio later.
+- **Assumptions:**
 - Objective
 - Metrics
